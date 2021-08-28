@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/reloj25-5/static/js/main.ca519760.chunk.js",
+    "main.js.map": "/reloj25-5/static/js/main.ca519760.chunk.js.map",
+    "runtime-main.js": "/reloj25-5/static/js/runtime-main.9167a2ab.js",
+    "runtime-main.js.map": "/reloj25-5/static/js/runtime-main.9167a2ab.js.map",
+    "static/js/2.8959bfa8.chunk.js": "/reloj25-5/static/js/2.8959bfa8.chunk.js",
+    "static/js/2.8959bfa8.chunk.js.map": "/reloj25-5/static/js/2.8959bfa8.chunk.js.map",
+    "index.html": "/reloj25-5/index.html",
+    "static/js/2.8959bfa8.chunk.js.LICENSE.txt": "/reloj25-5/static/js/2.8959bfa8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9167a2ab.js",
+    "static/js/2.8959bfa8.chunk.js",
+    "static/js/main.ca519760.chunk.js"
+  ]
+}
